@@ -1,0 +1,8 @@
+[package]
+name = "kmeans_rust"
+version = "0.1.0"
+edition = "2021"
+description = "K-Means desde cero en Rust, para aprender clustering y Rust a la vez"
+
+[dependencies]
+rand = "0.8"
